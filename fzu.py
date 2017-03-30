@@ -41,4 +41,4 @@ def upload_file():
 if __name__ == '__main__':
     # web服务器在运行时支持调试
     app.run(debug=True)
-    change_img_type()
+    # change_img_type()
